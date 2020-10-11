@@ -2,6 +2,9 @@
 Handwritten digit recognition on webcam with OpenCV and Tensorflow.
 <img src="/images/main.gif"/>
 
+## Complete Demonstration
+https://youtu.be/_q7eEj1178Y
+
 ## Files
 
 - MnistCNN.ipynb -> Python notebook where I created the CNN model and saved it. It contains some commented lines which I did not use as well.
