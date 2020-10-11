@@ -1,6 +1,8 @@
 # MnistVision
 Handwritten digit recognition on webcam with OpenCV and Tensorflow.
+
 <img src="/images/main.gif"/>
+
 
 ## Complete Demonstration
 https://youtu.be/_q7eEj1178Y
